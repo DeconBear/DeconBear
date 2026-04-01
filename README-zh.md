@@ -52,11 +52,13 @@
 ## GitHub 概览
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DeconBear&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=GitHub%20Snapshot" alt="DeconBear GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeconBear&layout=compact&hide_border=true&langs_count=8&card_width=320" alt="DeconBear top languages" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=public%20repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FDeconBear&style=for-the-badge&color=0F766E" alt="DeconBear public repos" />
+  <img src="https://img.shields.io/github/stars/DeconBear?style=for-the-badge&label=public%20stars&color=1D4ED8" alt="DeconBear public stars" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FDeconBear&style=for-the-badge&color=334155" alt="DeconBear followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=following&query=%24.following&url=https%3A%2F%2Fapi.github.com%2Fusers%2FDeconBear&style=for-the-badge&color=7C3AED" alt="DeconBear following" />
 </p>
 
-这些卡片展示的是公开 GitHub 活动与公开仓库的数据，第三方卡片服务可能会有一定缓存延迟。
+这一部分改成了基于 GitHub 公开数据的动态徽章，稳定性会比免费公共卡片服务更好，但也可能有短暂缓存延迟。
 
 ## 找到我
 
