@@ -16,13 +16,21 @@
 </p>
 
 <p align="center">
-  <em>南方科技大学博士生，关注 AI、Agent 系统、科学计算、电路设计、量子计算与 quantum memory（量子存储）等方向。</em>
+  <em>南方科技大学博士生，关注 AI、Agent 系统、科学计算、电路设计、量子计算与量子存储等方向。</em>
+</p>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?label=public%20repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FDeconBear&style=for-the-badge&color=0F766E" alt="DeconBear public repos" />
+  <img src="https://img.shields.io/github/stars/DeconBear?style=for-the-badge&label=public%20stars&color=1D4ED8" alt="DeconBear public stars" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FDeconBear&style=for-the-badge&color=334155" alt="DeconBear followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=following&query=%24.following&url=https%3A%2F%2Fapi.github.com%2Fusers%2FDeconBear&style=for-the-badge&color=7C3AED" alt="DeconBear following" />
 </p>
 
 ## 背景
 
 我的工作位于研究与工程的交叉地带。
-我关注 AI、Agent 系统、科学计算、电路设计、量子计算和 quantum memory 等方向，尤其在意如何把这些想法真正落到可用的工具、仿真流程和真实技术系统中。
+我关注 AI、Agent 系统、科学计算、电路设计、量子计算和量子存储等方向，尤其在意如何把这些想法真正落到可用的工具、仿真流程和真实技术系统中。
 
 ## 代表项目
 
@@ -49,16 +57,7 @@
 - AI 电路设计
 - 量子测控系统设计
 
-## GitHub 概览
 
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?label=public%20repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FDeconBear&style=for-the-badge&color=0F766E" alt="DeconBear public repos" />
-  <img src="https://img.shields.io/github/stars/DeconBear?style=for-the-badge&label=public%20stars&color=1D4ED8" alt="DeconBear public stars" />
-  <img src="https://img.shields.io/badge/dynamic/json?label=followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FDeconBear&style=for-the-badge&color=334155" alt="DeconBear followers" />
-  <img src="https://img.shields.io/badge/dynamic/json?label=following&query=%24.following&url=https%3A%2F%2Fapi.github.com%2Fusers%2FDeconBear&style=for-the-badge&color=7C3AED" alt="DeconBear following" />
-</p>
-
-这一部分改成了基于 GitHub 公开数据的动态徽章，稳定性会比免费公共卡片服务更好，但也可能有短暂缓存延迟。
 
 ## 找到我
 
