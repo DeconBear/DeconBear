@@ -5,7 +5,7 @@
 <h1 align="center">DeconBear</h1>
 
 <p align="center">
-  <a href="./README.md">English</a>
+  <a href="./README.md">English</a> / <strong>简体中文</strong>
 </p>
 
 <p align="center">
@@ -56,9 +56,8 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeconBear&layout=compact&hide_border=true&langs_count=8&card_width=320" alt="DeconBear top languages" />
 </p>
 
-这些卡片展示的是公开 GitHub 活动与公开仓库的数据。
+这些卡片展示的是公开 GitHub 活动与公开仓库的数据，第三方卡片服务可能会有一定缓存延迟。
 
 ## 找到我
 
 - GitHub: [@DeconBear](https://github.com/DeconBear)
-

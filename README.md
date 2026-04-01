@@ -5,7 +5,7 @@
 <h1 align="center">DeconBear</h1>
 
 <p align="center">
-  <a href="./README-zh.md">简体中文</a>
+  <strong>English</strong> / <a href="./README-zh.md">简体中文</a>
 </p>
 
 <p align="center">
@@ -59,7 +59,7 @@ My interests span AI, agent systems, scientific computing, circuit design, quant
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeconBear&layout=compact&hide_border=true&langs_count=8&card_width=320" alt="DeconBear top languages" />
 </p>
 
-These cards reflect public GitHub activity and public repositories.
+These cards reflect public GitHub activity and public repositories only. Upstream services may cache results for a while.
 
 ## Find Me
 
