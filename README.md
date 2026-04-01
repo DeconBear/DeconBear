@@ -19,6 +19,14 @@
   <em>PhD student at the Southern University of Science and Technology (SUSTech), working across AI, agent systems, scientific computing, circuit design, quantum computing, and quantum memory.</em>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?label=public%20repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FDeconBear&style=for-the-badge&color=0F766E" alt="DeconBear public repos" />
+  <img src="https://img.shields.io/github/stars/DeconBear?style=for-the-badge&label=public%20stars&color=1D4ED8" alt="DeconBear public stars" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FDeconBear&style=for-the-badge&color=334155" alt="DeconBear followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=following&query=%24.following&url=https%3A%2F%2Fapi.github.com%2Fusers%2FDeconBear&style=for-the-badge&color=7C3AED" alt="DeconBear following" />
+</p>
+
+
 ## Background
 
 I work at the intersection of research and engineering.
@@ -51,17 +59,6 @@ My interests span AI, agent systems, scientific computing, circuit design, quant
 - Scientific computing for quantum-information simulation
 - AI-assisted circuit design
 - Quantum measurement and control system design
-
-## GitHub Snapshot
-
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?label=public%20repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FDeconBear&style=for-the-badge&color=0F766E" alt="DeconBear public repos" />
-  <img src="https://img.shields.io/github/stars/DeconBear?style=for-the-badge&label=public%20stars&color=1D4ED8" alt="DeconBear public stars" />
-  <img src="https://img.shields.io/badge/dynamic/json?label=followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FDeconBear&style=for-the-badge&color=334155" alt="DeconBear followers" />
-  <img src="https://img.shields.io/badge/dynamic/json?label=following&query=%24.following&url=https%3A%2F%2Fapi.github.com%2Fusers%2FDeconBear&style=for-the-badge&color=7C3AED" alt="DeconBear following" />
-</p>
-
-This section uses public GitHub-backed badges for better reliability. Values may still be cached briefly.
 
 ## Find Me
 
