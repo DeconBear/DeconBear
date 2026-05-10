@@ -36,10 +36,10 @@
 
 <p align="center">
   <a href="https://github.com/DeconBear">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DeconBear&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="DeconBear's GitHub Stats" />
+    <img height="160em" src="https://github-readme-stats-ochre-zeta.vercel.app/api?username=DeconBear&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="DeconBear's GitHub Stats" />
   </a>
   <a href="https://github.com/DeconBear">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeconBear&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="DeconBear's Top Languages" />
+    <img height="160em" src="https://github-readme-stats-ochre-zeta.vercel.app/api/top-langs/?username=DeconBear&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="DeconBear's Top Languages" />
   </a>
 </p>
 
