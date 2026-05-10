@@ -88,8 +88,6 @@ My interests span AI, agent systems, scientific computing, circuit design, quant
 - **[SmithTool](https://github.com/DeconBear/SmithTool)** — An interactive Smith Chart desktop application for RF impedance matching and matching-network design, built with C++17 and Qt 6 Widgets. Supports impedance editing, matching element design, Touchstone import, SPICE netlist export, and bilingual UI.
   <br/>`C++` `Qt 6` `RF Design` `Desktop App`
 
-- **[klynx_skills](https://github.com/DeconBear/klynx_skills)** — A reusable skills repository for engineering workflows, centered on circuit design and simulation with ngspice. Provides a simulation-feedback loop including netlist validation, batch execution, metric extraction, report export, and schematic rendering.
-  <br/>`Python` `ngspice` `Automation` `AI-Assisted`
 
 - **[xmds-extended](https://github.com/DeconBear/xmds-extended)** — An unofficial fork of XMDS2 focused on practical cross-platform maintenance, adding native Windows support alongside CI automation and bilingual documentation.
   <br/>`Python` `Scientific Computing` `Cross-Platform`
