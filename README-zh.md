@@ -88,8 +88,6 @@
 - **[SmithTool](https://github.com/DeconBear/SmithTool)** — 基于 C++17 与 Qt 6 Widgets 开发的交互式 Smith 圆图桌面应用，用于 RF 阻抗匹配与匹配网络设计。支持阻抗编辑、匹配元件设计、Touchstone 文件导入、SPICE 网表导出及中英文双语界面。
   <br/>`C++` `Qt 6` `RF Design` `Desktop App`
 
-- **[klynx_skills](https://github.com/DeconBear/klynx_skills)** — 面向工程工作流复用的 skills 仓库，重点放在结合 ngspice 的电路设计与仿真。提供从网表校验、批量仿真执行、指标提取，到报告导出和原理图渲染的 simulation-feedback loop。
-  <br/>`Python` `ngspice` `Automation` `AI-Assisted`
 
 - **[xmds-extended](https://github.com/DeconBear/xmds-extended)** — XMDS2 的非官方分支，专注于实用的跨平台维护，新增原生 Windows 支持，同时配套 CI 自动化与双语文档。
   <br/>`Python` `Scientific Computing` `Cross-Platform`
