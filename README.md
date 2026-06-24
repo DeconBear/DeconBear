@@ -51,7 +51,7 @@
 
 <p align="center">
   <a href="https://github.com/DeconBear">
-    <img src="https://github-profile-trophy.vercel.app/?username=DeconBear&theme=algolia&no-frame=true&no-bg=false&row=1&column=7&margin-w=4" alt="DeconBear's Trophies" />
+    <img src="https://gh-profile-trophy.vercel.app/?username=DeconBear&theme=algolia&no-frame=true&no-bg=false&row=1&column=7&margin-w=4" alt="DeconBear's Trophies" />
   </a>
 </p>
 
