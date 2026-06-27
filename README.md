@@ -77,20 +77,81 @@
 I work at the intersection of research and engineering.
 My interests span AI, agent systems, scientific computing, circuit design, quantum computing, and quantum memory, with a particular focus on turning ideas into usable tools, simulation workflows, and real technical systems.
 
-## 🚀 Representative Projects
+## 🚀 Open Source Projects
 
-- **[actoviq-agent-sdk](https://github.com/DeconBear/actoviq-agent-sdk)** — An independent and experimental agent SDK for practical multi-tool, multi-session, and bridge-assisted workflows. The project explores how agent systems can become usable developer infrastructure rather than isolated demos, with support for sessions, tools, MCP integration, workspace helpers, runtime bridges, and interactive streaming workflows.
-  <br/>`TypeScript` `Agent SDK` `MCP` `Developer Tools`
+All my public repositories, grouped by domain. Each card links directly to the repo.
 
-- **[actoviq-circuit-agent](https://github.com/DeconBear/actoviq-circuit-agent)** — An AI-powered tool that converts natural-language circuit requirements into verified SPICE netlists and schematics, using ngspice simulation and SVG schematic rendering for principle-level design exploration.
-  <br/>`Python` `ngspice` `Circuit Design` `AI`
+### 🤖 AI & Agent Systems
 
-- **[SmithTool](https://github.com/DeconBear/SmithTool)** — An interactive Smith Chart desktop application for RF impedance matching and matching-network design, built with C++17 and Qt 6 Widgets. Supports impedance editing, matching element design, Touchstone import, SPICE netlist export, and bilingual UI.
-  <br/>`C++` `Qt 6` `RF Design` `Desktop App`
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/DeconBear/actoviq-agent-sdk"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=actoviq-agent-sdk&theme=tokyonight&hide_border=true" alt="actoviq-agent-sdk" /></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/DeconBear/actoviq-circuit-agent"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=actoviq-circuit-agent&theme=tokyonight&hide_border=true" alt="actoviq-circuit-agent" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/DeconBear/skills"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=skills&theme=tokyonight&hide_border=true" alt="skills" /></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/DeconBear/learn-ai"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=learn-ai&theme=tokyonight&hide_border=true" alt="learn-ai" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/DeconBear/keyway"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=keyway&theme=tokyonight&hide_border=true" alt="keyway" /></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/DeconBear/multica"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=multica&theme=tokyonight&hide_border=true" alt="multica" /></a>
+    </td>
+  </tr>
+</table>
 
+### ⚛️ Quantum & Scientific Computing
 
-- **[xmds-extended](https://github.com/DeconBear/xmds-extended)** — An unofficial fork of XMDS2 focused on practical cross-platform maintenance, adding native Windows support alongside CI automation and bilingual documentation.
-  <br/>`Python` `Scientific Computing` `Cross-Platform`
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/DeconBear/qml-mnist-classify"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=qml-mnist-classify&theme=tokyonight&hide_border=true" alt="qml-mnist-classify" /></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/DeconBear/xmds-extended"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=xmds-extended&theme=tokyonight&hide_border=true" alt="xmds-extended" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/DeconBear/sbti-science"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=sbti-science&theme=tokyonight&hide_border=true" alt="sbti-science" /></a>
+    </td>
+    <td align="center"></td>
+  </tr>
+</table>
+
+### 🔧 Tools & Applications
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/DeconBear/SmithTool"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=SmithTool&theme=tokyonight&hide_border=true" alt="SmithTool" /></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/DeconBear/kbase"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=kbase&theme=tokyonight&hide_border=true" alt="kbase" /></a>
+    </td>
+  </tr>
+</table>
+
+### 📦 Profile
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/DeconBear/DeconBear"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=DeconBear&theme=tokyonight&hide_border=true" alt="DeconBear profile repo" /></a>
+    </td>
+    <td align="center"></td>
+  </tr>
+</table>
 
 ## 🤝 Participated Projects
 

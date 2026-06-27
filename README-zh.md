@@ -77,20 +77,81 @@
 我的工作位于研究与工程的交叉地带。
 我关注 AI、Agent 系统、科学计算、电路设计、量子计算和量子存储等方向，尤其在意如何把这些想法真正落到可用的工具、仿真流程和真实技术系统中。
 
-## 🚀 代表项目
+## 🚀 开源项目
 
-- **[actoviq-agent-sdk](https://github.com/DeconBear/actoviq-agent-sdk)** — 一个独立开发、带有实验性质的 agent SDK，面向真实的多工具、多会话、bridge-assisted 工作流。关注把 agent 系统做成真正可用的开发基础设施，包括 session、tools、MCP 集成、workspace helpers、runtime bridge，以及交互式流式工作流等能力。
-  <br/>`TypeScript` `Agent SDK` `MCP` `Developer Tools`
+我所有的公开仓库，按领域分组。每张卡片直接链接到对应仓库。
 
-- **[actoviq-circuit-agent](https://github.com/DeconBear/actoviq-circuit-agent)** — 一个 AI 驱动的工具，能将自然语言描述的电路需求转化为经过验证的 SPICE 网表和原理图，结合 ngspice 仿真与 SVG 原理图渲染，用于原理级设计探索。
-  <br/>`Python` `ngspice` `Circuit Design` `AI`
+### 🤖 AI 与 Agent 系统
 
-- **[SmithTool](https://github.com/DeconBear/SmithTool)** — 基于 C++17 与 Qt 6 Widgets 开发的交互式 Smith 圆图桌面应用，用于 RF 阻抗匹配与匹配网络设计。支持阻抗编辑、匹配元件设计、Touchstone 文件导入、SPICE 网表导出及中英文双语界面。
-  <br/>`C++` `Qt 6` `RF Design` `Desktop App`
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/DeconBear/actoviq-agent-sdk"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=actoviq-agent-sdk&theme=tokyonight&hide_border=true" alt="actoviq-agent-sdk" /></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/DeconBear/actoviq-circuit-agent"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=actoviq-circuit-agent&theme=tokyonight&hide_border=true" alt="actoviq-circuit-agent" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/DeconBear/skills"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=skills&theme=tokyonight&hide_border=true" alt="skills" /></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/DeconBear/learn-ai"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=learn-ai&theme=tokyonight&hide_border=true" alt="learn-ai" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/DeconBear/keyway"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=keyway&theme=tokyonight&hide_border=true" alt="keyway" /></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/DeconBear/multica"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=multica&theme=tokyonight&hide_border=true" alt="multica" /></a>
+    </td>
+  </tr>
+</table>
 
+### ⚛️ 量子与科学计算
 
-- **[xmds-extended](https://github.com/DeconBear/xmds-extended)** — XMDS2 的非官方分支，专注于实用的跨平台维护，新增原生 Windows 支持，同时配套 CI 自动化与双语文档。
-  <br/>`Python` `Scientific Computing` `Cross-Platform`
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/DeconBear/qml-mnist-classify"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=qml-mnist-classify&theme=tokyonight&hide_border=true" alt="qml-mnist-classify" /></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/DeconBear/xmds-extended"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=xmds-extended&theme=tokyonight&hide_border=true" alt="xmds-extended" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/DeconBear/sbti-science"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=sbti-science&theme=tokyonight&hide_border=true" alt="sbti-science" /></a>
+    </td>
+    <td align="center"></td>
+  </tr>
+</table>
+
+### 🔧 工具与应用
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/DeconBear/SmithTool"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=SmithTool&theme=tokyonight&hide_border=true" alt="SmithTool" /></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/DeconBear/kbase"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=kbase&theme=tokyonight&hide_border=true" alt="kbase" /></a>
+    </td>
+  </tr>
+</table>
+
+### 📦 个人主页仓库
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/DeconBear/DeconBear"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=DeconBear&theme=tokyonight&hide_border=true" alt="DeconBear profile repo" /></a>
+    </td>
+    <td align="center"></td>
+  </tr>
+</table>
 
 ## 🤝 参与项目
 
