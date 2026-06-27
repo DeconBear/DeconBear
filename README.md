@@ -55,6 +55,12 @@
   </a>
 </p>
 
+<h3 align="center">📊 Contribution Activity (last 30 days)</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeconBear&theme=tokyo-night&hide_border=true&area=true" alt="DeconBear's Contribution Graph" />
+</p>
+
 ---
 
 <h3 align="center">🛠️ Tech &amp; Tools</h3>
@@ -77,11 +83,35 @@
 I work at the intersection of research and engineering.
 My interests span AI, agent systems, scientific computing, circuit design, quantum computing, and quantum memory, with a particular focus on turning ideas into usable tools, simulation workflows, and real technical systems.
 
+## ⭐ Featured Project
+
+<a href="https://github.com/DeconBear/actoviq-agent-sdk">
+  <img align="right" width="320" src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=actoviq-agent-sdk&theme=tokyonight&hide_border=true" alt="actoviq-agent-sdk" />
+</a>
+
+**[actoviq-agent-sdk](https://github.com/DeconBear/actoviq-agent-sdk)** is an independent, experimental agent SDK for practical multi-tool, multi-session, and bridge-assisted agent workflows. It explores how agent systems can become usable developer infrastructure rather than isolated demos — with support for sessions, tools, MCP integration, workspace helpers, runtime bridges, and interactive streaming workflows.
+
+- 📖 Docs: https://deconbear.github.io/actoviq-agent-sdk/
+- 🛠️ TypeScript · Agent SDK · MCP · Developer Tools
+- ⭐ Most-starred repo, actively maintained
+
+<br clear="right" />
+
 ## 🚀 Open Source Projects
 
 All my public repositories, grouped by domain. Each card links directly to the repo.
 
 ### 🤖 AI & Agent Systems
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Agent%20SDK-TypeScript-3178C6?style=flat-square" alt="Agent SDK" />
+  <img src="https://img.shields.io/badge/MCP-Protocol-bf91f3?style=flat-square" alt="MCP" />
+  <img src="https://img.shields.io/badge/AI%20Agents-Python-3776AB?style=flat-square" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/ngspice-SPICE-0F4C81?style=flat-square" alt="ngspice" />
+  <img src="https://img.shields.io/badge/SPICE-Netlist-0F4C81?style=flat-square" alt="SPICE" />
+  <img src="https://img.shields.io/badge/LLM-Training-70a5fd?style=flat-square" alt="LLM" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Python-3776AB?style=flat-square" alt="Machine Learning" />
+</p>
 
 <table>
   <tr>
@@ -110,6 +140,14 @@ All my public repositories, grouped by domain. Each card links directly to the r
 
 ### ⚛️ Quantum & Scientific Computing
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Quantum%20Computing-QML-7C3AED?style=flat-square" alt="Quantum Computing" />
+  <img src="https://img.shields.io/badge/Quantum%20ML-VQNet-7C3AED?style=flat-square" alt="Quantum ML" />
+  <img src="https://img.shields.io/badge/MNIST-Classification-38bdae?style=flat-square" alt="MNIST" />
+  <img src="https://img.shields.io/badge/Scientific%20Computing-Python-3776AB?style=flat-square" alt="Scientific Computing" />
+  <img src="https://img.shields.io/badge/XMDS2-Cross--Platform-70a5fd?style=flat-square" alt="XMDS2" />
+</p>
+
 <table>
   <tr>
     <td align="center">
@@ -122,6 +160,14 @@ All my public repositories, grouped by domain. Each card links directly to the r
 </table>
 
 ### 🔧 Tools & Applications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Smith%20Chart-RF-0F766E?style=flat-square" alt="Smith Chart" />
+  <img src="https://img.shields.io/badge/Impedance%20Matching-C%2B%2B-00599C?style=flat-square" alt="Impedance Matching" />
+  <img src="https://img.shields.io/badge/Qt%206-Desktop-41CD52?style=flat-square" alt="Qt 6" />
+  <img src="https://img.shields.io/badge/PDF--Markdown-Fluent-ffcc33?style=flat-square" alt="PDF to Markdown" />
+  <img src="https://img.shields.io/badge/Desktop%20App-Native-38bdae?style=flat-square" alt="Desktop App" />
+</p>
 
 <table>
   <tr>

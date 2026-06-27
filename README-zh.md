@@ -55,6 +55,12 @@
   </a>
 </p>
 
+<h3 align="center">📊 贡献活动（近 30 天）</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeconBear&theme=tokyo-night&hide_border=true&area=true" alt="DeconBear's Contribution Graph" />
+</p>
+
 ---
 
 <h3 align="center">🛠️ 技术栈与工具</h3>
@@ -77,11 +83,35 @@
 我的工作位于研究与工程的交叉地带。
 我关注 AI、Agent 系统、科学计算、电路设计、量子计算和量子存储等方向，尤其在意如何把这些想法真正落到可用的工具、仿真流程和真实技术系统中。
 
+## ⭐ 旗舰项目
+
+<a href="https://github.com/DeconBear/actoviq-agent-sdk">
+  <img align="right" width="320" src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=actoviq-agent-sdk&theme=tokyonight&hide_border=true" alt="actoviq-agent-sdk" />
+</a>
+
+**[actoviq-agent-sdk](https://github.com/DeconBear/actoviq-agent-sdk)** 是一个独立开发、带实验性质的 agent SDK，面向真实的多工具、多会话、bridge-assisted 工作流。它探索如何把 agent 系统做成真正可用的开发基础设施而非孤立的 demo——支持 session、tools、MCP 集成、workspace helpers、runtime bridge 以及交互式流式工作流。
+
+- 📖 文档：https://deconbear.github.io/actoviq-agent-sdk/
+- 🛠️ TypeScript · Agent SDK · MCP · Developer Tools
+- ⭐ 个人 star 数最多的仓库，持续维护
+
+<br clear="right" />
+
 ## 🚀 开源项目
 
 我所有的公开仓库，按领域分组。每张卡片直接链接到对应仓库。
 
 ### 🤖 AI 与 Agent 系统
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Agent%20SDK-TypeScript-3178C6?style=flat-square" alt="Agent SDK" />
+  <img src="https://img.shields.io/badge/MCP-Protocol-bf91f3?style=flat-square" alt="MCP" />
+  <img src="https://img.shields.io/badge/AI%20Agents-Python-3776AB?style=flat-square" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/ngspice-SPICE-0F4C81?style=flat-square" alt="ngspice" />
+  <img src="https://img.shields.io/badge/SPICE-Netlist-0F4C81?style=flat-square" alt="SPICE" />
+  <img src="https://img.shields.io/badge/LLM-Training-70a5fd?style=flat-square" alt="LLM" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Python-3776AB?style=flat-square" alt="Machine Learning" />
+</p>
 
 <table>
   <tr>
@@ -110,6 +140,14 @@
 
 ### ⚛️ 量子与科学计算
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Quantum%20Computing-QML-7C3AED?style=flat-square" alt="Quantum Computing" />
+  <img src="https://img.shields.io/badge/Quantum%20ML-VQNet-7C3AED?style=flat-square" alt="Quantum ML" />
+  <img src="https://img.shields.io/badge/MNIST-Classification-38bdae?style=flat-square" alt="MNIST" />
+  <img src="https://img.shields.io/badge/Scientific%20Computing-Python-3776AB?style=flat-square" alt="Scientific Computing" />
+  <img src="https://img.shields.io/badge/XMDS2-Cross--Platform-70a5fd?style=flat-square" alt="XMDS2" />
+</p>
+
 <table>
   <tr>
     <td align="center">
@@ -122,6 +160,14 @@
 </table>
 
 ### 🔧 工具与应用
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Smith%20Chart-RF-0F766E?style=flat-square" alt="Smith Chart" />
+  <img src="https://img.shields.io/badge/Impedance%20Matching-C%2B%2B-00599C?style=flat-square" alt="Impedance Matching" />
+  <img src="https://img.shields.io/badge/Qt%206-Desktop-41CD52?style=flat-square" alt="Qt 6" />
+  <img src="https://img.shields.io/badge/PDF--Markdown-Fluent-ffcc33?style=flat-square" alt="PDF to Markdown" />
+  <img src="https://img.shields.io/badge/Desktop%20App-Native-38bdae?style=flat-square" alt="Desktop App" />
+</p>
 
 <table>
   <tr>
