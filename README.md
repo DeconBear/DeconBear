@@ -104,9 +104,7 @@ All my public repositories, grouped by domain. Each card links directly to the r
     <td align="center">
       <a href="https://github.com/DeconBear/keyway"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=keyway&theme=tokyonight&hide_border=true" alt="keyway" /></a>
     </td>
-    <td align="center">
-      <a href="https://github.com/DeconBear/multica"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=multica&theme=tokyonight&hide_border=true" alt="multica" /></a>
-    </td>
+    <td align="center"></td>
   </tr>
 </table>
 
@@ -121,12 +119,6 @@ All my public repositories, grouped by domain. Each card links directly to the r
       <a href="https://github.com/DeconBear/xmds-extended"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=xmds-extended&theme=tokyonight&hide_border=true" alt="xmds-extended" /></a>
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/DeconBear/sbti-science"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=sbti-science&theme=tokyonight&hide_border=true" alt="sbti-science" /></a>
-    </td>
-    <td align="center"></td>
-  </tr>
 </table>
 
 ### 🔧 Tools & Applications
@@ -139,17 +131,6 @@ All my public repositories, grouped by domain. Each card links directly to the r
     <td align="center">
       <a href="https://github.com/DeconBear/kbase"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=kbase&theme=tokyonight&hide_border=true" alt="kbase" /></a>
     </td>
-  </tr>
-</table>
-
-### 📦 Profile
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/DeconBear/DeconBear"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=DeconBear&theme=tokyonight&hide_border=true" alt="DeconBear profile repo" /></a>
-    </td>
-    <td align="center"></td>
   </tr>
 </table>
 
