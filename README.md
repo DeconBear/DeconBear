@@ -55,10 +55,10 @@
   </a>
 </p>
 
-<h3 align="center">📊 Contribution Activity (last 30 days)</h3>
+<h3 align="center">📊 Contribution Activity (last 12 months)</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeconBear&theme=tokyo-night&hide_border=true&area=true" alt="DeconBear's Contribution Graph" />
+  <img src="https://ghchart.rshah.org/2b7489/DeconBear" alt="DeconBear's contribution chart" />
 </p>
 
 ---
@@ -89,10 +89,11 @@ My interests span AI, agent systems, scientific computing, circuit design, quant
   <img align="right" width="320" src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=actoviq-agent-sdk&theme=tokyonight&hide_border=true" alt="actoviq-agent-sdk" />
 </a>
 
-**[actoviq-agent-sdk](https://github.com/DeconBear/actoviq-agent-sdk)** is an independent, experimental agent SDK for practical multi-tool, multi-session, and bridge-assisted agent workflows. It explores how agent systems can become usable developer infrastructure rather than isolated demos — with support for sessions, tools, MCP integration, workspace helpers, runtime bridges, and interactive streaming workflows.
+**[actoviq-agent-sdk](https://github.com/DeconBear/actoviq-agent-sdk)** is an independent, experimental agent SDK built to help users quickly construct and run agent workflows — multi-tool, multi-session, and bridge-assisted. It ships with batteries-included built-in agents out of the box, so you can use it both as an SDK to build your own agents and as a ready-to-run agent runtime. Its ongoing exploration is focused on **multi-model teams** and **multi-agent teams**: composing several models and agents into coordinated, collaborative units.
 
 - 📖 Docs: https://deconbear.github.io/actoviq-agent-sdk/
 - 🛠️ TypeScript · Agent SDK · MCP · Developer Tools
+- 🔭 Exploring: multi-model teams & multi-agent teams
 - ⭐ Most-starred repo, actively maintained
 
 <br clear="right" />

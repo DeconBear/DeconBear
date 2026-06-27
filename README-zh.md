@@ -55,10 +55,10 @@
   </a>
 </p>
 
-<h3 align="center">📊 贡献活动（近 30 天）</h3>
+<h3 align="center">📊 贡献活动（近 12 个月）</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeconBear&theme=tokyo-night&hide_border=true&area=true" alt="DeconBear's Contribution Graph" />
+  <img src="https://ghchart.rshah.org/2b7489/DeconBear" alt="DeconBear's contribution chart" />
 </p>
 
 ---
@@ -89,10 +89,11 @@
   <img align="right" width="320" src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=actoviq-agent-sdk&theme=tokyonight&hide_border=true" alt="actoviq-agent-sdk" />
 </a>
 
-**[actoviq-agent-sdk](https://github.com/DeconBear/actoviq-agent-sdk)** 是一个独立开发、带实验性质的 agent SDK，面向真实的多工具、多会话、bridge-assisted 工作流。它探索如何把 agent 系统做成真正可用的开发基础设施而非孤立的 demo——支持 session、tools、MCP 集成、workspace helpers、runtime bridge 以及交互式流式工作流。
+**[actoviq-agent-sdk](https://github.com/DeconBear/actoviq-agent-sdk)** 是一个独立开发、带实验性质的 agent SDK，主要面向帮助用户快速构建和运行 agent 工作流——支持多工具、多会话、bridge-assisted 等场景。开箱即用，内置了可直接运行的 agent，因此既可作为 SDK 用来构建自己的 agent，也可作为开箱即用的 agent 运行时。当前探索方向聚焦于**多模型团队**与**多 agent 团队**：将多个模型与 agent 组合成可协调、可协作的单元。
 
 - 📖 文档：https://deconbear.github.io/actoviq-agent-sdk/
 - 🛠️ TypeScript · Agent SDK · MCP · Developer Tools
+- 🔭 探索方向：多模型团队 与 多 agent 团队
 - ⭐ 个人 star 数最多的仓库，持续维护
 
 <br clear="right" />
