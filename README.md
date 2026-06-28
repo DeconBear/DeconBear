@@ -67,6 +67,16 @@
   <img src="https://ghchart.rshah.org/2b7489/DeconBear" alt="DeconBear's annual contribution chart" />
 </p>
 
+<h3 align="center">🐍 Contribution Snake</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DeconBear/DeconBear/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DeconBear/DeconBear/output/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DeconBear/DeconBear/output/github-snake.svg" />
+  </picture>
+</p>
+
 ---
 
 <h3 align="center">🛠️ Tech &amp; Tools</h3>
