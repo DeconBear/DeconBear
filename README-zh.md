@@ -55,10 +55,16 @@
   </a>
 </p>
 
-<h3 align="center">📊 贡献活动（近 12 个月）</h3>
+<h3 align="center">📊 贡献活动（近几周）</h3>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/2b7489/DeconBear" alt="DeconBear's contribution chart" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeconBear&theme=tokyo-night&hide_border=true&area=true" alt="DeconBear's contribution graph" />
+</p>
+
+<h3 align="center">📅 年度贡献热力图</h3>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/2b7489/DeconBear" alt="DeconBear's annual contribution chart" />
 </p>
 
 ---
