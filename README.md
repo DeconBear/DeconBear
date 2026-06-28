@@ -61,13 +61,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeconBear&theme=tokyo-night&hide_border=true&area=true" alt="DeconBear's contribution graph" />
 </p>
 
-<h3 align="center">📅 Annual Contribution Heatmap</h3>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/2b7489/DeconBear" alt="DeconBear's annual contribution chart" />
-</p>
-
-<h3 align="center">🐍 Contribution Snake</h3>
+<h3 align="center">🐍 Annual Contribution Snake</h3>
 
 <p align="center">
   <picture>
