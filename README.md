@@ -81,6 +81,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt" />
   <img src="https://img.shields.io/badge/ngspice-0F4C81?style=for-the-badge&logo=spdx&logoColor=white" alt="ngspice" />
+  <img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -170,6 +171,24 @@ All my public repositories, grouped by domain. Each card links directly to the r
   </tr>
 </table>
 
+### 🤖 Robotics
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ROS%202-Humble-22314E?style=flat-square" alt="ROS 2 Humble" />
+  <img src="https://img.shields.io/badge/Curriculum-Docs%20%2B%20Code-0F766E?style=flat-square" alt="Curriculum" />
+  <img src="https://img.shields.io/badge/AI%20Tutor-Protocol-1D4ED8?style=flat-square" alt="AI Tutor" />
+  <img src="https://img.shields.io/badge/Gazebo-Fortress-334155?style=flat-square" alt="Gazebo" />
+</p>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/DeconBear/ros2-humble-notes"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=ros2-humble-notes&theme=tokyonight&hide_border=true" alt="ros2-humble-notes" /></a>
+    </td>
+    <td align="center"></td>
+  </tr>
+</table>
+
 ### 🔧 Tools & Applications
 
 <p align="center">
@@ -178,6 +197,7 @@ All my public repositories, grouped by domain. Each card links directly to the r
   <img src="https://img.shields.io/badge/Qt%206-Desktop-41CD52?style=flat-square" alt="Qt 6" />
   <img src="https://img.shields.io/badge/PDF--Markdown-Fluent-ffcc33?style=flat-square" alt="PDF to Markdown" />
   <img src="https://img.shields.io/badge/Desktop%20App-Native-38bdae?style=flat-square" alt="Desktop App" />
+  <img src="https://img.shields.io/badge/Web-HTML%2FCSS%2FJS-F7DF1E?style=flat-square" alt="Web" />
 </p>
 
 <table>
@@ -188,6 +208,12 @@ All my public repositories, grouped by domain. Each card links directly to the r
     <td align="center">
       <a href="https://github.com/DeconBear/kbase"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=kbase&theme=tokyonight&hide_border=true" alt="kbase" /></a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/DeconBear/sbti-science"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=sbti-science&theme=tokyonight&hide_border=true" alt="sbti-science" /></a>
+    </td>
+    <td align="center"></td>
   </tr>
 </table>
 
@@ -200,6 +226,7 @@ All my public repositories, grouped by domain. Each card links directly to the r
 
 - New architectures for AI training
 - AI agent design and runtime systems
+- ROS 2 learning curriculum and AI-assisted tutoring
 - Quantum computing
 - Scientific computing for quantum-information simulation
 - AI-assisted circuit design
