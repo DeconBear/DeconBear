@@ -96,14 +96,14 @@
 
 ## ⭐ 旗舰项目
 
-<a href="https://github.com/DeconBear/actoviq-agent-sdk">
-  <img align="right" width="320" src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=actoviq-agent-sdk&theme=tokyonight&hide_border=true" alt="actoviq-agent-sdk" />
+<a href="https://github.com/DeconBear/hadamard">
+  <img align="right" width="320" src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=hadamard&theme=tokyonight&hide_border=true" alt="hadamard" />
 </a>
 
-**[actoviq-agent-sdk](https://github.com/DeconBear/actoviq-agent-sdk)** 是一个独立开发、带实验性质的 agent SDK，主要面向帮助用户快速构建和运行 agent 工作流——支持多工具、多会话、bridge-assisted 等场景。开箱即用，内置了可直接运行的 agent，因此既可作为 SDK 用来构建自己的 agent，也可作为开箱即用的 agent 运行时。当前探索方向聚焦于**多模型团队**与**多 agent 团队**：将多个模型与 agent 组合成可协调、可协作的单元。
+**[hadamard](https://github.com/DeconBear/hadamard)** 是一个独立开发、带实验性质的 TypeScript agent SDK 与 agent-team 平台，提供 TUI、GUI、Bridge 与多 agent 协作能力，主要面向帮助用户快速构建和运行 agent 工作流——支持多工具、多会话、bridge-assisted 等场景。开箱即用，因此既可作为 SDK 用来构建自己的 agent，也可作为开箱即用的 agent 运行时。当前探索方向聚焦于**多模型团队**与**多 agent 团队**：将多个模型与 agent 组合成可协调、可协作的单元。
 
-- 📖 文档：https://deconbear.github.io/actoviq-agent-sdk/
-- 🛠️ TypeScript · Agent SDK · MCP · Developer Tools
+- 📖 文档：https://deconbear.github.io/hadamard/
+- 🛠️ TypeScript · Agent SDK · MCP · TUI / GUI · Developer Tools
 - 🔭 探索方向：多模型团队 与 多 agent 团队
 - ⭐ 个人 star 数最多的仓库，持续维护
 
@@ -128,10 +128,10 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/DeconBear/actoviq-agent-sdk"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=actoviq-agent-sdk&theme=tokyonight&hide_border=true" alt="actoviq-agent-sdk" /></a>
+      <a href="https://github.com/DeconBear/hadamard"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=hadamard&theme=tokyonight&hide_border=true" alt="hadamard" /></a>
     </td>
     <td align="center">
-      <a href="https://github.com/DeconBear/actoviq-circuit-agent"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=actoviq-circuit-agent&theme=tokyonight&hide_border=true" alt="actoviq-circuit-agent" /></a>
+      <a href="https://github.com/DeconBear/vibe-analog"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=vibe-analog&theme=tokyonight&hide_border=true" alt="vibe-analog" /></a>
     </td>
   </tr>
   <tr>

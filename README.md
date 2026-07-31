@@ -96,14 +96,14 @@ My interests span AI, agent systems, scientific computing, circuit design, quant
 
 ## ⭐ Featured Project
 
-<a href="https://github.com/DeconBear/actoviq-agent-sdk">
-  <img align="right" width="320" src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=actoviq-agent-sdk&theme=tokyonight&hide_border=true" alt="actoviq-agent-sdk" />
+<a href="https://github.com/DeconBear/hadamard">
+  <img align="right" width="320" src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=hadamard&theme=tokyonight&hide_border=true" alt="hadamard" />
 </a>
 
-**[actoviq-agent-sdk](https://github.com/DeconBear/actoviq-agent-sdk)** is an independent, experimental agent SDK built to help users quickly construct and run agent workflows — multi-tool, multi-session, and bridge-assisted. It ships with batteries-included built-in agents out of the box, so you can use it both as an SDK to build your own agents and as a ready-to-run agent runtime. Its ongoing exploration is focused on **multi-model teams** and **multi-agent teams**: composing several models and agents into coordinated, collaborative units.
+**[hadamard](https://github.com/DeconBear/hadamard)** is an independent, experimental TypeScript agent SDK and agent-team platform with TUI, GUI, Bridge, and multi-agent collaboration. It helps users quickly construct and run agent workflows — multi-tool, multi-session, and bridge-assisted — and ships with batteries-included surfaces out of the box. Its ongoing exploration is focused on **multi-model teams** and **multi-agent teams**: composing several models and agents into coordinated, collaborative units.
 
-- 📖 Docs: https://deconbear.github.io/actoviq-agent-sdk/
-- 🛠️ TypeScript · Agent SDK · MCP · Developer Tools
+- 📖 Docs: https://deconbear.github.io/hadamard/
+- 🛠️ TypeScript · Agent SDK · MCP · TUI / GUI · Developer Tools
 - 🔭 Exploring: multi-model teams & multi-agent teams
 - ⭐ Most-starred repo, actively maintained
 
@@ -128,10 +128,10 @@ All my public repositories, grouped by domain. Each card links directly to the r
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/DeconBear/actoviq-agent-sdk"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=actoviq-agent-sdk&theme=tokyonight&hide_border=true" alt="actoviq-agent-sdk" /></a>
+      <a href="https://github.com/DeconBear/hadamard"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=hadamard&theme=tokyonight&hide_border=true" alt="hadamard" /></a>
     </td>
     <td align="center">
-      <a href="https://github.com/DeconBear/actoviq-circuit-agent"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=actoviq-circuit-agent&theme=tokyonight&hide_border=true" alt="actoviq-circuit-agent" /></a>
+      <a href="https://github.com/DeconBear/vibe-analog"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=vibe-analog&theme=tokyonight&hide_border=true" alt="vibe-analog" /></a>
     </td>
   </tr>
   <tr>
