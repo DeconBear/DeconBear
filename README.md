@@ -100,11 +100,12 @@ My interests span AI, agent systems, scientific computing, circuit design, quant
   <img align="right" width="320" src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=hadamard&theme=tokyonight&hide_border=true" alt="hadamard" />
 </a>
 
-**[hadamard](https://github.com/DeconBear/hadamard)** is an independent, experimental TypeScript agent SDK and agent-team platform with TUI, GUI, Bridge, and multi-agent collaboration. It helps users quickly construct and run agent workflows — multi-tool, multi-session, and bridge-assisted — and ships with batteries-included surfaces out of the box. Its ongoing exploration is focused on **multi-model teams** and **multi-agent teams**: composing several models and agents into coordinated, collaborative units.
+**[hadamard](https://github.com/DeconBear/hadamard)** (`0.4.x`) is an independent TypeScript agent SDK and agent-team platform with TUI, desktop GUI, Bridge, and multi-agent collaboration. It helps users construct and run multi-tool, multi-session workflows, with Bridge supporting both Direct API providers and External CLI runtimes (Claude Code, Codex, and more). Ongoing focus: **model teams** (panel analysis, reviewer) and **multi-agent teams**, toward a **1.0** architecture with stable package subpath contracts.
 
 - 📖 Docs: https://deconbear.github.io/hadamard/
-- 🛠️ TypeScript · Agent SDK · MCP · TUI / GUI · Developer Tools
-- 🔭 Exploring: multi-model teams & multi-agent teams
+- 📦 npm: [`actoviq-agent-sdk`](https://www.npmjs.com/package/actoviq-agent-sdk)
+- 🛠️ TypeScript · Agent SDK · MCP · TUI / GUI · Bridge
+- 🔭 Exploring: model teams, multi-agent teams, 1.0 SDK surface
 - ⭐ Most-starred repo, actively maintained
 
 <br clear="right" />
@@ -123,6 +124,7 @@ All my public repositories, grouped by domain. Each card links directly to the r
   <img src="https://img.shields.io/badge/SPICE-Netlist-0F4C81?style=flat-square" alt="SPICE" />
   <img src="https://img.shields.io/badge/LLM-Training-70a5fd?style=flat-square" alt="LLM" />
   <img src="https://img.shields.io/badge/Machine%20Learning-Python-3776AB?style=flat-square" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/ROS%202-Humble-22314E?style=flat-square" alt="ROS 2 Humble" />
 </p>
 
 <table>
@@ -139,7 +141,7 @@ All my public repositories, grouped by domain. Each card links directly to the r
       <a href="https://github.com/DeconBear/skills"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=skills&theme=tokyonight&hide_border=true" alt="skills" /></a>
     </td>
     <td align="center">
-      <a href="https://github.com/DeconBear/learn-ai"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=learn-ai&theme=tokyonight&hide_border=true" alt="learn-ai" /></a>
+      <a href="https://github.com/DeconBear/notebook"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=notebook&theme=tokyonight&hide_border=true" alt="notebook" /></a>
     </td>
   </tr>
   <tr>
@@ -171,24 +173,6 @@ All my public repositories, grouped by domain. Each card links directly to the r
   </tr>
 </table>
 
-### 🤖 Robotics
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ROS%202-Humble-22314E?style=flat-square" alt="ROS 2 Humble" />
-  <img src="https://img.shields.io/badge/Curriculum-Docs%20%2B%20Code-0F766E?style=flat-square" alt="Curriculum" />
-  <img src="https://img.shields.io/badge/AI%20Tutor-Protocol-1D4ED8?style=flat-square" alt="AI Tutor" />
-  <img src="https://img.shields.io/badge/Gazebo-Fortress-334155?style=flat-square" alt="Gazebo" />
-</p>
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/DeconBear/ros2-humble-notes"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=ros2-humble-notes&theme=tokyonight&hide_border=true" alt="ros2-humble-notes" /></a>
-    </td>
-    <td align="center"></td>
-  </tr>
-</table>
-
 ### 🔧 Tools & Applications
 
 <p align="center">
@@ -197,7 +181,6 @@ All my public repositories, grouped by domain. Each card links directly to the r
   <img src="https://img.shields.io/badge/Qt%206-Desktop-41CD52?style=flat-square" alt="Qt 6" />
   <img src="https://img.shields.io/badge/PDF--Markdown-Fluent-ffcc33?style=flat-square" alt="PDF to Markdown" />
   <img src="https://img.shields.io/badge/Desktop%20App-Native-38bdae?style=flat-square" alt="Desktop App" />
-  <img src="https://img.shields.io/badge/Web-HTML%2FCSS%2FJS-F7DF1E?style=flat-square" alt="Web" />
 </p>
 
 <table>
@@ -208,12 +191,6 @@ All my public repositories, grouped by domain. Each card links directly to the r
     <td align="center">
       <a href="https://github.com/DeconBear/kbase"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=kbase&theme=tokyonight&hide_border=true" alt="kbase" /></a>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/DeconBear/sbti-science"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=sbti-science&theme=tokyonight&hide_border=true" alt="sbti-science" /></a>
-    </td>
-    <td align="center"></td>
   </tr>
 </table>
 
@@ -226,7 +203,7 @@ All my public repositories, grouped by domain. Each card links directly to the r
 
 - New architectures for AI training
 - AI agent design and runtime systems
-- ROS 2 learning curriculum and AI-assisted tutoring
+- Illustrated AI / ML notes and ROS 2 Humble curriculum
 - Quantum computing
 - Scientific computing for quantum-information simulation
 - AI-assisted circuit design

@@ -100,11 +100,12 @@
   <img align="right" width="320" src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=hadamard&theme=tokyonight&hide_border=true" alt="hadamard" />
 </a>
 
-**[hadamard](https://github.com/DeconBear/hadamard)** 是一个独立开发、带实验性质的 TypeScript agent SDK 与 agent-team 平台，提供 TUI、GUI、Bridge 与多 agent 协作能力，主要面向帮助用户快速构建和运行 agent 工作流——支持多工具、多会话、bridge-assisted 等场景。开箱即用，因此既可作为 SDK 用来构建自己的 agent，也可作为开箱即用的 agent 运行时。当前探索方向聚焦于**多模型团队**与**多 agent 团队**：将多个模型与 agent 组合成可协调、可协作的单元。
+**[hadamard](https://github.com/DeconBear/hadamard)**（`0.4.x`）是一个独立的 TypeScript agent SDK 与 agent-team 平台，提供 TUI、桌面 GUI、Bridge 与多 agent 协作能力，面向多工具、多会话工作流；Bridge 同时支持 Direct API 与 External CLI 运行时（Claude Code、Codex 等）。当前聚焦 **model team**（panel analysis、reviewer）与 **多 agent 团队**，并推进 **1.0** 架构下稳定的 package subpath 契约。
 
 - 📖 文档：https://deconbear.github.io/hadamard/
-- 🛠️ TypeScript · Agent SDK · MCP · TUI / GUI · Developer Tools
-- 🔭 探索方向：多模型团队 与 多 agent 团队
+- 📦 npm：[`actoviq-agent-sdk`](https://www.npmjs.com/package/actoviq-agent-sdk)
+- 🛠️ TypeScript · Agent SDK · MCP · TUI / GUI · Bridge
+- 🔭 探索方向：model team、多 agent 团队、1.0 SDK 表面
 - ⭐ 个人 star 数最多的仓库，持续维护
 
 <br clear="right" />
@@ -123,6 +124,7 @@
   <img src="https://img.shields.io/badge/SPICE-Netlist-0F4C81?style=flat-square" alt="SPICE" />
   <img src="https://img.shields.io/badge/LLM-Training-70a5fd?style=flat-square" alt="LLM" />
   <img src="https://img.shields.io/badge/Machine%20Learning-Python-3776AB?style=flat-square" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/ROS%202-Humble-22314E?style=flat-square" alt="ROS 2 Humble" />
 </p>
 
 <table>
@@ -139,7 +141,7 @@
       <a href="https://github.com/DeconBear/skills"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=skills&theme=tokyonight&hide_border=true" alt="skills" /></a>
     </td>
     <td align="center">
-      <a href="https://github.com/DeconBear/learn-ai"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=learn-ai&theme=tokyonight&hide_border=true" alt="learn-ai" /></a>
+      <a href="https://github.com/DeconBear/notebook"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=notebook&theme=tokyonight&hide_border=true" alt="notebook" /></a>
     </td>
   </tr>
   <tr>
@@ -171,24 +173,6 @@
   </tr>
 </table>
 
-### 🤖 机器人
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ROS%202-Humble-22314E?style=flat-square" alt="ROS 2 Humble" />
-  <img src="https://img.shields.io/badge/Curriculum-Docs%20%2B%20Code-0F766E?style=flat-square" alt="Curriculum" />
-  <img src="https://img.shields.io/badge/AI%20Tutor-Protocol-1D4ED8?style=flat-square" alt="AI Tutor" />
-  <img src="https://img.shields.io/badge/Gazebo-Fortress-334155?style=flat-square" alt="Gazebo" />
-</p>
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/DeconBear/ros2-humble-notes"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=ros2-humble-notes&theme=tokyonight&hide_border=true" alt="ros2-humble-notes" /></a>
-    </td>
-    <td align="center"></td>
-  </tr>
-</table>
-
 ### 🔧 工具与应用
 
 <p align="center">
@@ -197,7 +181,6 @@
   <img src="https://img.shields.io/badge/Qt%206-Desktop-41CD52?style=flat-square" alt="Qt 6" />
   <img src="https://img.shields.io/badge/PDF--Markdown-Fluent-ffcc33?style=flat-square" alt="PDF to Markdown" />
   <img src="https://img.shields.io/badge/Desktop%20App-Native-38bdae?style=flat-square" alt="Desktop App" />
-  <img src="https://img.shields.io/badge/Web-HTML%2FCSS%2FJS-F7DF1E?style=flat-square" alt="Web" />
 </p>
 
 <table>
@@ -208,12 +191,6 @@
     <td align="center">
       <a href="https://github.com/DeconBear/kbase"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=kbase&theme=tokyonight&hide_border=true" alt="kbase" /></a>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/DeconBear/sbti-science"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=sbti-science&theme=tokyonight&hide_border=true" alt="sbti-science" /></a>
-    </td>
-    <td align="center"></td>
   </tr>
 </table>
 
@@ -226,7 +203,7 @@
 
 - AI training 的新架构
 - AI Agent 的设计与 runtime 系统
-- ROS 2 学习课程与 AI 辅导协议
+- 图解 AI / ML 笔记与 ROS 2 Humble 课程
 - 量子计算
 - 面向 quantum information simulation 的科学计算
 - AI 电路设计
