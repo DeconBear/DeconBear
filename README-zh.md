@@ -112,20 +112,7 @@
 
 ## 🚀 开源项目
 
-我所有的公开仓库，按领域分组。每张卡片直接链接到对应仓库。
-
-### 🤖 AI 与 Agent 系统
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Agent%20SDK-TypeScript-3178C6?style=flat-square" alt="Agent SDK" />
-  <img src="https://img.shields.io/badge/MCP-Protocol-bf91f3?style=flat-square" alt="MCP" />
-  <img src="https://img.shields.io/badge/AI%20Agents-Python-3776AB?style=flat-square" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/ngspice-SPICE-0F4C81?style=flat-square" alt="ngspice" />
-  <img src="https://img.shields.io/badge/SPICE-Netlist-0F4C81?style=flat-square" alt="SPICE" />
-  <img src="https://img.shields.io/badge/LLM-Training-70a5fd?style=flat-square" alt="LLM" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-Python-3776AB?style=flat-square" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/ROS%202-Humble-22314E?style=flat-square" alt="ROS 2 Humble" />
-</p>
+我所有的公开仓库。每张卡片直接链接到对应仓库。
 
 <table>
   <tr>
@@ -133,63 +120,31 @@
       <a href="https://github.com/DeconBear/hadamard"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=hadamard&theme=tokyonight&hide_border=true" alt="hadamard" /></a>
     </td>
     <td align="center">
+      <a href="https://github.com/DeconBear/SmithTool"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=SmithTool&theme=tokyonight&hide_border=true" alt="SmithTool" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/DeconBear/notebook"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=notebook&theme=tokyonight&hide_border=true" alt="notebook" /></a>
+    </td>
+    <td align="center">
       <a href="https://github.com/DeconBear/vibe-analog"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=vibe-analog&theme=tokyonight&hide_border=true" alt="vibe-analog" /></a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/DeconBear/skills"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=skills&theme=tokyonight&hide_border=true" alt="skills" /></a>
+      <a href="https://github.com/DeconBear/kbase"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=kbase&theme=tokyonight&hide_border=true" alt="kbase" /></a>
     </td>
     <td align="center">
-      <a href="https://github.com/DeconBear/notebook"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=notebook&theme=tokyonight&hide_border=true" alt="notebook" /></a>
+      <a href="https://github.com/DeconBear/xmds-extended"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=xmds-extended&theme=tokyonight&hide_border=true" alt="xmds-extended" /></a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/DeconBear/keyway"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=keyway&theme=tokyonight&hide_border=true" alt="keyway" /></a>
     </td>
-    <td align="center"></td>
-  </tr>
-</table>
-
-### ⚛️ 量子与科学计算
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Quantum%20Computing-QML-7C3AED?style=flat-square" alt="Quantum Computing" />
-  <img src="https://img.shields.io/badge/Quantum%20ML-VQNet-7C3AED?style=flat-square" alt="Quantum ML" />
-  <img src="https://img.shields.io/badge/MNIST-Classification-38bdae?style=flat-square" alt="MNIST" />
-  <img src="https://img.shields.io/badge/Scientific%20Computing-Python-3776AB?style=flat-square" alt="Scientific Computing" />
-  <img src="https://img.shields.io/badge/XMDS2-Cross--Platform-70a5fd?style=flat-square" alt="XMDS2" />
-</p>
-
-<table>
-  <tr>
     <td align="center">
-      <a href="https://github.com/DeconBear/qml-mnist-classify"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=qml-mnist-classify&theme=tokyonight&hide_border=true" alt="qml-mnist-classify" /></a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/DeconBear/xmds-extended"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=xmds-extended&theme=tokyonight&hide_border=true" alt="xmds-extended" /></a>
-    </td>
-  </tr>
-</table>
-
-### 🔧 工具与应用
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Smith%20Chart-RF-0F766E?style=flat-square" alt="Smith Chart" />
-  <img src="https://img.shields.io/badge/Impedance%20Matching-C%2B%2B-00599C?style=flat-square" alt="Impedance Matching" />
-  <img src="https://img.shields.io/badge/Qt%206-Desktop-41CD52?style=flat-square" alt="Qt 6" />
-  <img src="https://img.shields.io/badge/PDF--Markdown-Fluent-ffcc33?style=flat-square" alt="PDF to Markdown" />
-  <img src="https://img.shields.io/badge/Desktop%20App-Native-38bdae?style=flat-square" alt="Desktop App" />
-</p>
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/DeconBear/SmithTool"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=SmithTool&theme=tokyonight&hide_border=true" alt="SmithTool" /></a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/DeconBear/kbase"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=kbase&theme=tokyonight&hide_border=true" alt="kbase" /></a>
+      <a href="https://github.com/DeconBear/skills"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=skills&theme=tokyonight&hide_border=true" alt="skills" /></a>
     </td>
   </tr>
 </table>
