@@ -156,13 +156,11 @@ All my public repositories. Each card links directly to the repo.
 
 ## 🎯 Current Focus
 
-- New architectures for AI training
 - AI agent design and runtime systems
-- Illustrated AI / ML notes and ROS 2 Humble curriculum
-- Quantum computing
-- Scientific computing for quantum-information simulation
+- World model and control theory/algorithm
+- Quantum information (repeater & network)
+- Scientific computing
 - AI-assisted circuit design
-- Quantum measurement and control system design
 
 ## 📫 Connect
 

@@ -156,13 +156,11 @@
 
 ## 🎯 当前关注
 
-- AI training 的新架构
 - AI Agent 的设计与 runtime 系统
-- 图解 AI / ML 笔记与 ROS 2 Humble 课程
-- 量子计算
-- 面向 quantum information simulation 的科学计算
+- 世界模型与控制理论/算法
+- 量子信息（中继与网络）
+- 科学计算
 - AI 电路设计
-- 量子测控系统设计
 
 ## 📫 联系我
 
