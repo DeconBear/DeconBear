@@ -100,12 +100,12 @@ My interests span AI, agent systems, scientific computing, circuit design, quant
   <img align="right" width="320" src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=hadamard&theme=tokyonight&hide_border=true" alt="hadamard" />
 </a>
 
-**[hadamard](https://github.com/DeconBear/hadamard)** (`0.4.x`) is an independent TypeScript agent SDK and agent-team platform with TUI, desktop GUI, Bridge, and multi-agent collaboration. It helps users construct and run multi-tool, multi-session workflows, with Bridge supporting both Direct API providers and External CLI runtimes (Claude Code, Codex, and more). Ongoing focus: **model teams** (panel analysis, reviewer) and **multi-agent teams**, toward a **1.0** architecture with stable package subpath contracts.
+**[hadamard](https://github.com/DeconBear/hadamard)** (`0.4.x`) is an independent, experimental agent for practical multi-tool, multi-session, and bridge-assisted agent workflows — agents as an engineering team. One TypeScript runtime provides tools, skills, durable sessions, memory, and MCP, with a terminal UI and a desktop GUI; the Bridge manages installed agent CLIs (Claude Code, Codex, and more) as child processes, and multiple agents across providers investigate, review, and dispatch in parallel. Inspired by Claude Code, Codex, and Deepagents, while keeping its own public API and docs.
 
 - 📖 Docs: https://deconbear.github.io/hadamard/
 - 📦 npm: [`actoviq-agent-sdk`](https://www.npmjs.com/package/actoviq-agent-sdk)
 - 🛠️ TypeScript · Agent SDK · MCP · TUI / GUI · Bridge
-- 🔭 Exploring: model teams, multi-agent teams, 1.0 SDK surface
+- 🔭 Exploring: multi-runtime agent teams — Direct API providers + External CLI runtimes
 - ⭐ Most-starred repo, actively maintained
 
 <br clear="right" />
@@ -133,17 +133,14 @@ All my public repositories. Each card links directly to the repo.
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/DeconBear/kbase"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=kbase&theme=tokyonight&hide_border=true" alt="kbase" /></a>
-    </td>
-    <td align="center">
       <a href="https://github.com/DeconBear/xmds-extended"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=xmds-extended&theme=tokyonight&hide_border=true" alt="xmds-extended" /></a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/DeconBear/keyway"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=keyway&theme=tokyonight&hide_border=true" alt="keyway" /></a>
     </td>
-    <td align="center">
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
       <a href="https://github.com/DeconBear/skills"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=skills&theme=tokyonight&hide_border=true" alt="skills" /></a>
     </td>
   </tr>
