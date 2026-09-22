@@ -100,12 +100,12 @@
   <img align="right" width="320" src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=hadamard&theme=tokyonight&hide_border=true" alt="hadamard" />
 </a>
 
-**[hadamard](https://github.com/DeconBear/hadamard)**（`0.4.x`）是一个独立的 TypeScript agent SDK 与 agent-team 平台，提供 TUI、桌面 GUI、Bridge 与多 agent 协作能力，面向多工具、多会话工作流；Bridge 同时支持 Direct API 与 External CLI 运行时（Claude Code、Codex 等）。当前聚焦 **model team**（panel analysis、reviewer）与 **多 agent 团队**，并推进 **1.0** 架构下稳定的 package subpath 契约。
+**[hadamard](https://github.com/DeconBear/hadamard)**（`0.4.x`）是一个独立、实验性的 agent，面向实用化的多工具、多会话与 Bridge 辅助 agent 工作流 —— 把 agent 用成一个工程团队。单一 TypeScript runtime 提供工具、技能、持久会话、记忆与 MCP，并附带终端 UI 与桌面 GUI；Bridge 以子进程方式管理已安装的 agent CLI（Claude Code、Codex 等），多个 agent 跨提供商并行调查、评审与分发任务。灵感来自 Claude Code、Codex 与 Deepagents，同时保持独立的公开 API 与文档。
 
 - 📖 文档：https://deconbear.github.io/hadamard/
 - 📦 npm：[`actoviq-agent-sdk`](https://www.npmjs.com/package/actoviq-agent-sdk)
 - 🛠️ TypeScript · Agent SDK · MCP · TUI / GUI · Bridge
-- 🔭 探索方向：model team、多 agent 团队、1.0 SDK 表面
+- 🔭 探索方向：多运行时 agent 团队 —— Direct API 与 External CLI 运行时
 - ⭐ 个人 star 数最多的仓库，持续维护
 
 <br clear="right" />
@@ -133,17 +133,14 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/DeconBear/kbase"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=kbase&theme=tokyonight&hide_border=true" alt="kbase" /></a>
-    </td>
-    <td align="center">
       <a href="https://github.com/DeconBear/xmds-extended"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=xmds-extended&theme=tokyonight&hide_border=true" alt="xmds-extended" /></a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/DeconBear/keyway"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=keyway&theme=tokyonight&hide_border=true" alt="keyway" /></a>
     </td>
-    <td align="center">
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
       <a href="https://github.com/DeconBear/skills"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=skills&theme=tokyonight&hide_border=true" alt="skills" /></a>
     </td>
   </tr>
