@@ -94,11 +94,7 @@
 I work at the intersection of research and engineering.
 My interests span AI, agent systems, scientific computing, circuit design, quantum computing, and quantum memory, with a particular focus on turning ideas into usable tools, simulation workflows, and real technical systems.
 
-## ⭐ Featured Project
-
-<a href="https://github.com/DeconBear/hadamard">
-  <img align="right" width="320" src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=hadamard&theme=tokyonight&hide_border=true" alt="hadamard" />
-</a>
+## 🚀 Projects
 
 **[hadamard](https://github.com/DeconBear/hadamard)** (`0.4.x`) is an independent, experimental agent for practical multi-tool, multi-session, and bridge-assisted agent workflows — agents as an engineering team. One TypeScript runtime provides tools, skills, durable sessions, memory, and MCP, with a terminal UI and a desktop GUI; the Bridge manages installed agent CLIs (Claude Code, Codex, and more) as child processes, and multiple agents across providers investigate, review, and dispatch in parallel. Inspired by Claude Code, Codex, and Deepagents, while keeping its own public API and docs.
 
@@ -106,37 +102,28 @@ My interests span AI, agent systems, scientific computing, circuit design, quant
 - 📦 npm: [`actoviq-agent-sdk`](https://www.npmjs.com/package/actoviq-agent-sdk)
 - 🛠️ TypeScript · Agent SDK · MCP · TUI / GUI · Bridge
 - 🔭 Exploring: multi-runtime agent teams — Direct API providers + External CLI runtimes
-- ⭐ Most-starred repo, actively maintained
 
-<br clear="right" />
+**[SmithTool](https://github.com/DeconBear/SmithTool)** is an interactive Smith Chart desktop application for RF impedance matching and matching-network design, built with C++17 and Qt 6 Widgets. It offers interactive chart visualization, source/load impedance editing (rectangular and polar), series/shunt R-L-C matching element design, matching wizards for L/Pi/T and other topologies, Touchstone import, and SPICE netlist export.
 
-## 🚀 Open Source Projects
+- 🛠️ C++17 · Qt 6 Widgets · CMake
+- 📡 Touchstone (`.s1p` / `.s2p`) import · SPICE export · English / Simplified Chinese UI
 
-A selection of my public repositories. Each card links directly to the repo.
+**[notebook](https://github.com/DeconBear/notebook)** (🧪 Beta) is a diagram-driven learning repository — one folder per chapter — that breaks down how AI works and how to build it, covering AI, control theory, robotics, world models, information theory, quantum information, algorithms, and ROS 2. Each article focuses on a single concept readable in 20–30 minutes, and all code runs on CPU by default, so a consumer laptop is enough.
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/DeconBear/hadamard"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=hadamard&theme=tokyonight&hide_border=true" alt="hadamard" /></a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/DeconBear/SmithTool"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=SmithTool&theme=tokyonight&hide_border=true" alt="SmithTool" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/DeconBear/notebook"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=notebook&theme=tokyonight&hide_border=true" alt="notebook" /></a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/DeconBear/causalwave"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=causalwave&theme=tokyonight&hide_border=true" alt="causalwave" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <a href="https://github.com/DeconBear/xmds-extended"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=xmds-extended&theme=tokyonight&hide_border=true" alt="xmds-extended" /></a>
-    </td>
-  </tr>
-</table>
+- 📖 Read online: https://deconbear.github.io/notebook/
+- 🛠️ Python · PyTorch · illustrated notes + runnable code
+- 🎯 From perceptrons to LLMs: backpropagation, attention, RLHF, RAG, Bellman equations, and more
+
+**[causalwave](https://github.com/DeconBear/causalwave)** is a causal numerical solver for linearly coupled propagation equations — no training or GPU required. `marcher` solves one-way spatial propagation combined with local time evolution, `IF2` provides spatial Volterra elimination and second-order exponential time stepping for the two-level GEM model, and an optional XMDS2 interface covers input generation, isolated builds, and result reading, with derivations and reproducible validation included.
+
+- 📖 Docs: https://deconbear.github.io/causalwave/
+- 🛠️ Python · NumPy / SciPy · GEM / Maxwell–Bloch · XMDS2 interop
+- 🎯 Numerical baseline for quantum-memory GEM simulations
+
+**[xmds-extended](https://github.com/DeconBear/xmds-extended)** is an unofficial derivative of XMDS2 focused on practical cross-platform maintenance, with native Windows support as its first major downstream addition — no MSYS or WSL required. It ships a portable Windows installer with upgrade and uninstall flows, CI for Windows, Linux, and macOS, and bilingual project pages and tutorials.
+
+- 📖 Project site: https://deconbear.github.io/xmds-extended/
+- 🛠️ Python · C++ · XMDS2 · Cross-platform CI
 
 ## 🎯 Current Focus
 

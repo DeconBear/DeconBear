@@ -94,11 +94,7 @@
 我的工作位于研究与工程的交叉地带。
 我关注 AI、Agent 系统、科学计算、电路设计、量子计算和量子存储等方向，尤其在意如何把这些想法真正落到可用的工具、仿真流程和真实技术系统中。
 
-## ⭐ 旗舰项目
-
-<a href="https://github.com/DeconBear/hadamard">
-  <img align="right" width="320" src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=hadamard&theme=tokyonight&hide_border=true" alt="hadamard" />
-</a>
+## 🚀 项目
 
 **[hadamard](https://github.com/DeconBear/hadamard)**（`0.4.x`）是一个独立、实验性的 agent，面向实用化的多工具、多会话与 Bridge 辅助 agent 工作流 —— 把 agent 用成一个工程团队。单一 TypeScript runtime 提供工具、技能、持久会话、记忆与 MCP，并附带终端 UI 与桌面 GUI；Bridge 以子进程方式管理已安装的 agent CLI（Claude Code、Codex 等），多个 agent 跨提供商并行调查、评审与分发任务。灵感来自 Claude Code、Codex 与 Deepagents，同时保持独立的公开 API 与文档。
 
@@ -106,37 +102,28 @@
 - 📦 npm：[`actoviq-agent-sdk`](https://www.npmjs.com/package/actoviq-agent-sdk)
 - 🛠️ TypeScript · Agent SDK · MCP · TUI / GUI · Bridge
 - 🔭 探索方向：多运行时 agent 团队 —— Direct API 与 External CLI 运行时
-- ⭐ 个人 star 数最多的仓库，持续维护
 
-<br clear="right" />
+**[SmithTool](https://github.com/DeconBear/SmithTool)** 是一个交互式 Smith 圆图桌面应用，用于射频阻抗匹配与匹配网络设计，基于 C++17 与 Qt 6 Widgets 构建。支持交互式圆图可视化、源/负载阻抗编辑（直角与极坐标）、串/并 R-L-C 匹配元件设计、L/Pi/T 等拓扑的匹配向导，以及 Touchstone 导入与 SPICE 网表导出。
 
-## 🚀 开源项目
+- 🛠️ C++17 · Qt 6 Widgets · CMake
+- 📡 Touchstone（`.s1p` / `.s2p`）导入 · SPICE 导出 · 英文 / 简体中文界面
 
-精选的公开仓库。每张卡片直接链接到对应仓库。
+**[notebook](https://github.com/DeconBear/notebook)**（🧪 Beta 公测版）是一个图解笔记仓库 —— 一个文件夹就是一章 —— 拆解 AI 的运行逻辑和建构方式，覆盖 AI、控制论、机器人学、世界模型、信息论、量子信息、算法与 ROS 2。每篇文章只聚焦一个知识点，20–30 分钟读完，所有代码默认 CPU 运行，消费级笔记本就能跑。
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/DeconBear/hadamard"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=hadamard&theme=tokyonight&hide_border=true" alt="hadamard" /></a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/DeconBear/SmithTool"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=SmithTool&theme=tokyonight&hide_border=true" alt="SmithTool" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/DeconBear/notebook"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=notebook&theme=tokyonight&hide_border=true" alt="notebook" /></a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/DeconBear/causalwave"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=causalwave&theme=tokyonight&hide_border=true" alt="causalwave" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <a href="https://github.com/DeconBear/xmds-extended"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=xmds-extended&theme=tokyonight&hide_border=true" alt="xmds-extended" /></a>
-    </td>
-  </tr>
-</table>
+- 📖 在线阅读：https://deconbear.github.io/notebook/
+- 🛠️ Python · PyTorch · 图解 + 可运行代码
+- 🎯 从感知机到大模型：反向传播、注意力机制、RLHF、RAG、Bellman 方程等底层原理
+
+**[causalwave](https://github.com/DeconBear/causalwave)** 是线性耦合传播方程的因果数值求解工具，无需训练或 GPU。`marcher` 求解单向空间传播与局部时间演化组成的线性系统，`IF2` 为两能级 GEM 模型提供空间 Volterra 消元和二阶指数时间推进，并提供可选的 XMDS2 输入生成、隔离编译运行和结果读取接口，附中文推导与可复现验证。
+
+- 📖 文档：https://deconbear.github.io/causalwave/
+- 🛠️ Python · NumPy / SciPy · GEM / Maxwell–Bloch · XMDS2 接口
+- 🎯 面向量子存储 GEM 仿真的数值基线
+
+**[xmds-extended](https://github.com/DeconBear/xmds-extended)** 是 XMDS2 的非官方衍生版本，专注实用的跨平台维护，首个主要下游贡献是原生 Windows 支持 —— 无需 MSYS 或 WSL。提供便携式 Windows 安装包（含升级与卸载流程）、Windows/Linux/macOS CI，以及双语项目页面与教程。
+
+- 📖 项目网站：https://deconbear.github.io/xmds-extended/
+- 🛠️ Python · C++ · XMDS2 · 跨平台 CI
 
 ## 🎯 当前关注
 
