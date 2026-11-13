@@ -91,12 +91,12 @@
 
 ## 🚀 项目
 
-**[hadamard](https://github.com/DeconBear/hadamard)**（`0.4.x`）是一个独立、实验性的 agent，面向实用化的多工具、多会话与 Bridge 辅助 agent 工作流 —— 把 agent 用成一个工程团队。单一 TypeScript runtime 提供工具、技能、持久会话、记忆与 MCP，并附带终端 UI 与桌面 GUI；Bridge 以子进程方式管理已安装的 agent CLI（Claude Code、Codex 等），多个 agent 跨提供商并行调查、评审与分发任务。灵感来自 Claude Code、Codex 与 Deepagents，同时保持独立的公开 API 与文档。
+**[hadamard](https://github.com/DeconBear/hadamard)** 是一个围绕 LLM harness 构建的工具家族。**Hadamard Canvas（Hcanvas）**（`0.1.x`）是面向工程与研究工作的 local-first、AI 原生画布 —— 人与 agent 共用同一份文档模型，以桌面应用加一个小型 CLI/HTTP 接口交付，agent 可直接读取与修改文档，并支持导出 HTML、PDF、PNG、PPTX 与 DOCX。**Hadamard Harness** 是同族的实验性 agent 运行时：TypeScript runtime，具备持久会话、工具、技能、记忆与 MCP，并通过 Bridge 对接已安装的 agent CLI（Claude Code、Codex 等）。
 
 - 📖 文档：https://deconbear.github.io/hadamard/
-- 📦 npm：[`actoviq-agent-sdk`](https://www.npmjs.com/package/actoviq-agent-sdk)
-- 🛠️ TypeScript · Agent SDK · MCP · TUI / GUI · Bridge
-- 🔭 探索方向：多运行时 agent 团队 —— Direct API 与 External CLI 运行时
+- 📦 npm：[`hadamard-canvas`](https://www.npmjs.com/package/hadamard-canvas)
+- 🛠️ TypeScript · Electron 桌面端 · CLI/HTTP agent 协议 · MCP · Bridge
+- 🎨 HTML / 画布 / 无限页面 / Markdown · 66 种 PPT 式图形 · local-first，无需云端账号
 
 **[SmithTool](https://github.com/DeconBear/SmithTool)** 是一个交互式 Smith 圆图桌面应用，用于射频阻抗匹配与匹配网络设计，基于 C++17 与 Qt 6 Widgets 构建。支持交互式圆图可视化、源/负载阻抗编辑（直角与极坐标）、串/并 R-L-C 匹配元件设计、L/Pi/T 等拓扑的匹配向导，以及 Touchstone 导入与 SPICE 网表导出。
 

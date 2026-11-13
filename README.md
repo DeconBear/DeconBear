@@ -91,12 +91,12 @@
 
 ## 🚀 Projects
 
-**[hadamard](https://github.com/DeconBear/hadamard)** (`0.4.x`) is an independent, experimental agent for practical multi-tool, multi-session, and bridge-assisted agent workflows — agents as an engineering team. One TypeScript runtime provides tools, skills, durable sessions, memory, and MCP, with a terminal UI and a desktop GUI; the Bridge manages installed agent CLIs (Claude Code, Codex, and more) as child processes, and multiple agents across providers investigate, review, and dispatch in parallel. Inspired by Claude Code, Codex, and Deepagents, while keeping its own public API and docs.
+**[hadamard](https://github.com/DeconBear/hadamard)** is a family of tools built around LLM harnesses. **Hadamard Canvas (Hcanvas)** (`0.1.x`) is a local-first, AI-native canvas for engineering and research work — one document model shared by humans and agents, shipped as a desktop app plus a small CLI/HTTP surface that agents can read and patch directly, with export to HTML, PDF, PNG, PPTX, and DOCX. **Hadamard Harness** is the experimental agent runtime in the same family: a TypeScript runtime with durable sessions, tools, skills, memory, MCP, and a bridge to installed agent CLIs (Claude Code, Codex, and more).
 
 - 📖 Docs: https://deconbear.github.io/hadamard/
-- 📦 npm: [`actoviq-agent-sdk`](https://www.npmjs.com/package/actoviq-agent-sdk)
-- 🛠️ TypeScript · Agent SDK · MCP · TUI / GUI · Bridge
-- 🔭 Exploring: multi-runtime agent teams — Direct API providers + External CLI runtimes
+- 📦 npm: [`hadamard-canvas`](https://www.npmjs.com/package/hadamard-canvas)
+- 🛠️ TypeScript · Electron desktop · CLI/HTTP agent protocol · MCP · Bridge
+- 🎨 HTML / canvas / infinite / Markdown pages · 66 PPT-style shapes · local-first, no cloud account
 
 **[SmithTool](https://github.com/DeconBear/SmithTool)** is an interactive Smith Chart desktop application for RF impedance matching and matching-network design, built with C++17 and Qt 6 Widgets. It offers interactive chart visualization, source/load impedance editing (rectangular and polar), series/shunt R-L-C matching element design, matching wizards for L/Pi/T and other topologies, Touchstone import, and SPICE netlist export.
 
