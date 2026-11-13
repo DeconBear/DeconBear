@@ -112,7 +112,7 @@ My interests span AI, agent systems, scientific computing, circuit design, quant
 
 ## 🚀 Open Source Projects
 
-All my public repositories. Each card links directly to the repo.
+A selection of my public repositories. Each card links directly to the repo.
 
 <table>
   <tr>
@@ -128,31 +128,18 @@ All my public repositories. Each card links directly to the repo.
       <a href="https://github.com/DeconBear/notebook"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=notebook&theme=tokyonight&hide_border=true" alt="notebook" /></a>
     </td>
     <td align="center">
-      <a href="https://github.com/DeconBear/vibe-analog"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=vibe-analog&theme=tokyonight&hide_border=true" alt="vibe-analog" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/DeconBear/causalwave"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=causalwave&theme=tokyonight&hide_border=true" alt="causalwave" /></a>
     </td>
-    <td align="center">
-      <a href="https://github.com/DeconBear/xmds-extended"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=xmds-extended&theme=tokyonight&hide_border=true" alt="xmds-extended" /></a>
-    </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/DeconBear/keyway"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=keyway&theme=tokyonight&hide_border=true" alt="keyway" /></a>
+      <a href="https://github.com/DeconBear/xmds-extended"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=xmds-extended&theme=tokyonight&hide_border=true" alt="xmds-extended" /></a>
     </td>
     <td align="center">
       <a href="https://github.com/DeconBear/skills"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=skills&theme=tokyonight&hide_border=true" alt="skills" /></a>
     </td>
   </tr>
 </table>
-
-## 🤝 Participated Projects
-
-- **[QuTiP](https://github.com/qutip/qutip)** — An open-source framework for simulating quantum systems, widely used in quantum optics, quantum information, and related computational physics.
-- **[QuTiP-qip](https://github.com/qutip/qutip-qip)** — A QuTiP ecosystem project focused on quantum information processing, including circuit-level simulation and related workflow support.
 
 ## 🎯 Current Focus
 

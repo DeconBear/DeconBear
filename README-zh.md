@@ -112,7 +112,7 @@
 
 ## 🚀 开源项目
 
-我所有的公开仓库。每张卡片直接链接到对应仓库。
+精选的公开仓库。每张卡片直接链接到对应仓库。
 
 <table>
   <tr>
@@ -128,31 +128,18 @@
       <a href="https://github.com/DeconBear/notebook"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=notebook&theme=tokyonight&hide_border=true" alt="notebook" /></a>
     </td>
     <td align="center">
-      <a href="https://github.com/DeconBear/vibe-analog"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=vibe-analog&theme=tokyonight&hide_border=true" alt="vibe-analog" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/DeconBear/causalwave"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=causalwave&theme=tokyonight&hide_border=true" alt="causalwave" /></a>
     </td>
-    <td align="center">
-      <a href="https://github.com/DeconBear/xmds-extended"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=xmds-extended&theme=tokyonight&hide_border=true" alt="xmds-extended" /></a>
-    </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/DeconBear/keyway"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=keyway&theme=tokyonight&hide_border=true" alt="keyway" /></a>
+      <a href="https://github.com/DeconBear/xmds-extended"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=xmds-extended&theme=tokyonight&hide_border=true" alt="xmds-extended" /></a>
     </td>
     <td align="center">
       <a href="https://github.com/DeconBear/skills"><img src="https://github-readme-stats-ochre-zeta.vercel.app/api/pin/?username=DeconBear&repo=skills&theme=tokyonight&hide_border=true" alt="skills" /></a>
     </td>
   </tr>
 </table>
-
-## 🤝 参与项目
-
-- **[QuTiP](https://github.com/qutip/qutip)** — 用于量子系统模拟的开源框架，在量子光学、量子信息及相关计算物理研究中被广泛使用。
-- **[QuTiP-qip](https://github.com/qutip/qutip-qip)** — QuTiP 生态中的量子信息处理项目，聚焦量子线路层面的模拟与相关工作流支持。
 
 ## 🎯 当前关注
 
