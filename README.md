@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <em>PhD student at the Southern University of Science and Technology (SUSTech), working across AI, agent systems, scientific computing, circuit design, quantum computing, and quantum memory.</em>
+  <em>PhD student at the Southern University of Science and Technology (SUSTech), working across scientific computing, quantum network and control engineering. Interested in AI4S research.</em>
 </p>
 
 <p align="center">
@@ -89,11 +89,6 @@
 
 ---
 
-## 🎓 Background
-
-I work at the intersection of research and engineering.
-My interests span AI, agent systems, scientific computing, circuit design, quantum computing, and quantum memory, with a particular focus on turning ideas into usable tools, simulation workflows, and real technical systems.
-
 ## 🚀 Projects
 
 **[hadamard](https://github.com/DeconBear/hadamard)** (`0.4.x`) is an independent, experimental agent for practical multi-tool, multi-session, and bridge-assisted agent workflows — agents as an engineering team. One TypeScript runtime provides tools, skills, durable sessions, memory, and MCP, with a terminal UI and a desktop GUI; the Bridge manages installed agent CLIs (Claude Code, Codex, and more) as child processes, and multiple agents across providers investigate, review, and dispatch in parallel. Inspired by Claude Code, Codex, and Deepagents, while keeping its own public API and docs.
@@ -124,14 +119,6 @@ My interests span AI, agent systems, scientific computing, circuit design, quant
 
 - 📖 Project site: https://deconbear.github.io/xmds-extended/
 - 🛠️ Python · C++ · XMDS2 · Cross-platform CI
-
-## 🎯 Current Focus
-
-- AI agent design and runtime systems
-- World model and control theory/algorithm
-- Quantum information (repeater & network)
-- Scientific computing
-- AI-assisted circuit design
 
 ## 📫 Connect
 

@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <em>南方科技大学博士生，关注 AI、Agent 系统、科学计算、电路设计、量子计算与量子存储等方向。</em>
+  <em>南方科技大学博士生，研究方向为科学计算、量子网络与控制工程，对 AI4S（AI for Science）研究感兴趣。</em>
 </p>
 
 <p align="center">
@@ -89,11 +89,6 @@
 
 ---
 
-## 🎓 背景
-
-我的工作位于研究与工程的交叉地带。
-我关注 AI、Agent 系统、科学计算、电路设计、量子计算和量子存储等方向，尤其在意如何把这些想法真正落到可用的工具、仿真流程和真实技术系统中。
-
 ## 🚀 项目
 
 **[hadamard](https://github.com/DeconBear/hadamard)**（`0.4.x`）是一个独立、实验性的 agent，面向实用化的多工具、多会话与 Bridge 辅助 agent 工作流 —— 把 agent 用成一个工程团队。单一 TypeScript runtime 提供工具、技能、持久会话、记忆与 MCP，并附带终端 UI 与桌面 GUI；Bridge 以子进程方式管理已安装的 agent CLI（Claude Code、Codex 等），多个 agent 跨提供商并行调查、评审与分发任务。灵感来自 Claude Code、Codex 与 Deepagents，同时保持独立的公开 API 与文档。
@@ -124,14 +119,6 @@
 
 - 📖 项目网站：https://deconbear.github.io/xmds-extended/
 - 🛠️ Python · C++ · XMDS2 · 跨平台 CI
-
-## 🎯 当前关注
-
-- AI Agent 的设计与 runtime 系统
-- 世界模型与控制理论/算法
-- 量子信息（中继与网络）
-- 科学计算
-- AI 电路设计
 
 ## 📫 联系我
 
